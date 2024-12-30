@@ -1,0 +1,10 @@
+C:\Users\Abhi\source\repos\Abhishek - VP Final\Abhishek - VP Final\bin\Debug\Abhishek - VP Final.exe.config
+C:\Users\Abhi\source\repos\Abhishek - VP Final\Abhishek - VP Final\bin\Debug\Abhishek - VP Final.exe
+C:\Users\Abhi\source\repos\Abhishek - VP Final\Abhishek - VP Final\bin\Debug\Abhishek - VP Final.pdb
+C:\Users\Abhi\source\repos\Abhishek - VP Final\Abhishek - VP Final\obj\Debug\Abhishek - VP Final.csproj.AssemblyReference.cache
+C:\Users\Abhi\source\repos\Abhishek - VP Final\Abhishek - VP Final\obj\Debug\Abhishek___VP_Final.Form1.resources
+C:\Users\Abhi\source\repos\Abhishek - VP Final\Abhishek - VP Final\obj\Debug\Abhishek___VP_Final.Properties.Resources.resources
+C:\Users\Abhi\source\repos\Abhishek - VP Final\Abhishek - VP Final\obj\Debug\Abhishek - VP Final.csproj.GenerateResource.cache
+C:\Users\Abhi\source\repos\Abhishek - VP Final\Abhishek - VP Final\obj\Debug\Abhishek - VP Final.csproj.CoreCompileInputs.cache
+C:\Users\Abhi\source\repos\Abhishek - VP Final\Abhishek - VP Final\obj\Debug\Abhishek - VP Final.exe
+C:\Users\Abhi\source\repos\Abhishek - VP Final\Abhishek - VP Final\obj\Debug\Abhishek - VP Final.pdb

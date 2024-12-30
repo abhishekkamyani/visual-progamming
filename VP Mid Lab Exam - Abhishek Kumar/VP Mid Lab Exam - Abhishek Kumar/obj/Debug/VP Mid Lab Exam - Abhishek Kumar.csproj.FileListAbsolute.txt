@@ -1,0 +1,10 @@
+C:\Users\Abhi\source\repos\VP Mid Lab Exam - Abhishek Kumar\VP Mid Lab Exam - Abhishek Kumar\bin\Debug\VP Mid Lab Exam - Abhishek Kumar.exe.config
+C:\Users\Abhi\source\repos\VP Mid Lab Exam - Abhishek Kumar\VP Mid Lab Exam - Abhishek Kumar\bin\Debug\VP Mid Lab Exam - Abhishek Kumar.exe
+C:\Users\Abhi\source\repos\VP Mid Lab Exam - Abhishek Kumar\VP Mid Lab Exam - Abhishek Kumar\bin\Debug\VP Mid Lab Exam - Abhishek Kumar.pdb
+C:\Users\Abhi\source\repos\VP Mid Lab Exam - Abhishek Kumar\VP Mid Lab Exam - Abhishek Kumar\obj\Debug\VP Mid Lab Exam - Abhishek Kumar.csproj.AssemblyReference.cache
+C:\Users\Abhi\source\repos\VP Mid Lab Exam - Abhishek Kumar\VP Mid Lab Exam - Abhishek Kumar\obj\Debug\VP_Mid_Lab_Exam___Abhishek_Kumar.Form1.resources
+C:\Users\Abhi\source\repos\VP Mid Lab Exam - Abhishek Kumar\VP Mid Lab Exam - Abhishek Kumar\obj\Debug\VP_Mid_Lab_Exam___Abhishek_Kumar.Properties.Resources.resources
+C:\Users\Abhi\source\repos\VP Mid Lab Exam - Abhishek Kumar\VP Mid Lab Exam - Abhishek Kumar\obj\Debug\VP Mid Lab Exam - Abhishek Kumar.csproj.GenerateResource.cache
+C:\Users\Abhi\source\repos\VP Mid Lab Exam - Abhishek Kumar\VP Mid Lab Exam - Abhishek Kumar\obj\Debug\VP Mid Lab Exam - Abhishek Kumar.csproj.CoreCompileInputs.cache
+C:\Users\Abhi\source\repos\VP Mid Lab Exam - Abhishek Kumar\VP Mid Lab Exam - Abhishek Kumar\obj\Debug\VP Mid Lab Exam - Abhishek Kumar.exe
+C:\Users\Abhi\source\repos\VP Mid Lab Exam - Abhishek Kumar\VP Mid Lab Exam - Abhishek Kumar\obj\Debug\VP Mid Lab Exam - Abhishek Kumar.pdb

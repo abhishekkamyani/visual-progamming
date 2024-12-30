@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abhi\\source\\repos\\Abhishek - VP Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE3327-EDCC-4971-AA73-59A089EDAFBB}|Abhishek - VP Final\\Abhishek - VP Final.csproj|c:\\users\\abhi\\source\\repos\\abhishek - vp final\\abhishek - vp final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDE3327-EDCC-4971-AA73-59A089EDAFBB}|Abhishek - VP Final\\Abhishek - VP Final.csproj|solutionrelative:abhishek - vp final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE3327-EDCC-4971-AA73-59A089EDAFBB}|Abhishek - VP Final\\Abhishek - VP Final.csproj|c:\\users\\abhi\\source\\repos\\abhishek - vp final\\abhishek - vp final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6EDE3327-EDCC-4971-AA73-59A089EDAFBB}|Abhishek - VP Final\\Abhishek - VP Final.csproj|solutionrelative:abhishek - vp final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Abhi\\source\\repos\\Abhishek - VP Final\\Abhishek - VP Final\\Form1.cs",
+              "RelativeDocumentMoniker": "Abhishek - VP Final\\Form1.cs",
+              "ToolTip": "C:\\Users\\Abhi\\source\\repos\\Abhishek - VP Final\\Abhishek - VP Final\\Form1.cs",
+              "RelativeToolTip": "Abhishek - VP Final\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:08:08.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abhi\\source\\repos\\Abhishek - VP Final\\Abhishek - VP Final\\Form1.cs",
+              "RelativeDocumentMoniker": "Abhishek - VP Final\\Form1.cs",
+              "ToolTip": "C:\\Users\\Abhi\\source\\repos\\Abhishek - VP Final\\Abhishek - VP Final\\Form1.cs [Design]",
+              "RelativeToolTip": "Abhishek - VP Final\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:07:42.976Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
